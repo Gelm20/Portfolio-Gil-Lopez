@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-  color: rgba(249, 105, 14, 1);
+  color: rgb(22, 29, 111, 1);
 }
 
 ul {
@@ -79,7 +79,7 @@ nav {
   margin: 5px 0;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(22, 29, 111, 1) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -89,7 +89,7 @@ nav {
   height: 3px;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(22, 29, 111, 1) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -101,7 +101,7 @@ nav {
   margin-left: 15px;
   background: linear-gradient(
     135deg,
-    rgba(249, 105, 14, 1) 0%,
+    rgb(22, 29, 111, 1) 0%,
     rgb(255, 255, 255) 100%
   );
 }
@@ -232,7 +232,7 @@ nav {
 @keyframes typing {
   75% {
     width: 0ch;
-    color: rgba(249, 105, 14, 1);
+    color: rgb(22, 29, 111, 1);
   }
   100% {
     width: 27ch;
@@ -251,14 +251,14 @@ nav {
 .main-message h3 {
   font-size: 4rem;
   margin: 1rem 0;
-  color: rgba(249, 105, 14, 1);
+  color: rgb(22, 29, 111, 1);
   background: linear-gradient(
     to right,
     rgb(199, 255, 216, 1) 0%,
     rgb(22, 29, 111, 1) 100%
   );
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #98ded9;
   background-clip: inherit;
 }
 
@@ -299,7 +299,7 @@ nav {
 }
 
 .scroll-down i:hover {
-  color: rgba(189, 72, 0);
+  color: rgb(22, 29, 111);
 }
 
 /* About */
@@ -407,7 +407,7 @@ hr {
     rgb(22, 29, 111, 1) 100%
   );
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #98ded9;
   background-clip: inherit;
 }
 
@@ -453,7 +453,7 @@ hr {
     rgb(22, 29, 111, 1) 100%
   );
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #98ded9;
   background-clip: inherit;
 }
 
