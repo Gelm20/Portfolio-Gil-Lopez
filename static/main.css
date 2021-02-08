@@ -15,7 +15,7 @@ html {
   font-size: 12px;
   box-sizing: border-box;
   scroll-behavior: smooth;
-  color: #e7e7e7;
+  color: #19456b;
   background: #98ded9;
 }
 
@@ -254,7 +254,7 @@ nav {
   color: rgb(22, 29, 111, 1);
   background: linear-gradient(
     to right,
-    rgb(199, 255, 216, 1) 0%,
+    rgb(22, 199, 154, 1) 0%,
     rgb(22, 29, 111, 1) 100%
   );
   -webkit-background-clip: text;
@@ -347,7 +347,7 @@ hr {
   margin: 4rem 0;
   background: linear-gradient(
     to right,
-    rgb(199, 255, 216, 1) 0%,
+    rgb(22, 199, 154, 1) 0%,
     rgb(22, 29, 111, 1) 100%
   );
   border: 0;
@@ -403,7 +403,7 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgb(199, 255, 216, 1) 0%,
+    rgb(22, 199, 154, 1) 0%,
     rgb(22, 29, 111, 1) 100%
   );
   -webkit-background-clip: text;
@@ -449,7 +449,7 @@ hr {
   margin: 2rem 0;
   background: linear-gradient(
     to right,
-    rgb(199, 255, 216, 1) 0%,
+    rgb(22, 199, 154, 1) 0%,
     rgb(22, 29, 111, 1) 100%
   );
   -webkit-background-clip: text;
